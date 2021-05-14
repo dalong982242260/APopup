@@ -1,0 +1,3 @@
+include ':popup'
+include ':app'
+rootProject.name = "APopup"
